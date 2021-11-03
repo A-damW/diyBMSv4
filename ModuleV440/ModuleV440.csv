@@ -47,11 +47,11 @@
 "","","TX1","TX Connector","Connector:Conn_01x02_Male","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal","https://datasheet.lcsc.com/szlcsc/JST-Sales-America-S2B-PH-K-S-LF-SN_C173752.pdf","","C265016","S2B-PH-K(LF)(SN)"
 "","","U1","EL3H7(B)(TA)-G","Isolator:PC817","Package_SO:SOP-4_4.4x2.6mm_P1.27mm","https://datasheet.lcsc.com/szlcsc/Everlight-Elec-EL3H7-B-TA-G_C32565.pdf","90","C32565","EL3H7(B)(TA)-G"
 "","","Y1","8MHZ Ceramic Resonator","Device:Crystal_Small","Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm","https://datasheet.lcsc.com/szlcsc/1903061615_Yangxing-Tech-X50328MSB2GI_C115962.pdf","","C115962","X50328MSB2GI"
-
-
-
-"Collated Components:"
-
+"","","","","","","","","",""
+"","","","","","","","","",""
+"","","","","","","","","",""
+"Collated Components:","","","","","","","","",""
+"","","","","","","","","",""
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","JLCPCBRotation","LCSCStockCode","PartNumber"
 "1","1","ATTINY841","ATtiny841-SSU","MCU_Microchip_ATtiny:ATtiny841-SSU","Package_SO:SOIC-14_3.9x8.7mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet.pdf","","C219103",""
 "2","1","C1","100nF","Device:C","Capacitor_SMD:C_0805_2012Metric","","","C49678","CC0805KRX7R9BB104"
@@ -80,3 +80,4 @@
 "25","1","TX1","TX Connector","Connector:Conn_01x02_Male","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal","https://datasheet.lcsc.com/szlcsc/JST-Sales-America-S2B-PH-K-S-LF-SN_C173752.pdf","","C265016","S2B-PH-K(LF)(SN)"
 "26","1","U1","EL3H7(B)(TA)-G","Isolator:PC817","Package_SO:SOP-4_4.4x2.6mm_P1.27mm","https://datasheet.lcsc.com/szlcsc/Everlight-Elec-EL3H7-B-TA-G_C32565.pdf","90","C32565","EL3H7(B)(TA)-G"
 "27","1","Y1","8MHZ Ceramic Resonator","Device:Crystal_Small","Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm","https://datasheet.lcsc.com/szlcsc/1903061615_Yangxing-Tech-X50328MSB2GI_C115962.pdf","","C115962","X50328MSB2GI"
+"","","","","","","","","",""
